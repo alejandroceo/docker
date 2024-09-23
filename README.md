@@ -16,7 +16,9 @@ Ejecuta un contenedor a partir de la imagen creada para probar que funcione:
 
 docker run <NOMBRE_IMAGEN>
 
-Ahora deberías tener tu imagen Docker creada a partir del Dockerfile en GitHub
+Ahora deberías tener tu imagen Docker creada a partir del Dockerfile en GitHub.
+
+# # "Descargo de responsabilidad: Las imágenes utilizadas en este proyecto son propiedad de sus respectivos autores. Se respetan todos los derechos de autor. Este trabajo se presenta con fines educativos y de referencia, y se reconoce la autoría correspondiente."
 
 ![ruta1](https://github.com/user-attachments/assets/c273bb93-fd76-4cb3-a781-2b83cae79d70)
 
