@@ -23,4 +23,9 @@ Ahora deberías tener tu imagen Docker creada a partir del Dockerfile en GitHub
 ![ruta2](https://github.com/user-attachments/assets/a2a6b27d-39ea-4d44-a66a-1c55f64fd91d)
 
 
-[docker_cheatsheet.pdf](https://github.com/user-attachments/files/17103959/docker_cheatsheet.pdf)
+![docker_cheatsheet-1](https://github.com/user-attachments/assets/0d619143-51a0-4148-8886-610a6cc967ea)
+
+
+<img width="842" alt="docker_cheatsheet1@2x" src="https://github.com/user-attachments/assets/e279eab9-3088-459e-9a51-c3f04983b875">
+
+![1671103022945](https://github.com/user-attachments/assets/a014c39e-cf6e-4ce3-971b-4ddd3bfeda8f)
